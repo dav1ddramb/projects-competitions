@@ -1,2 +1,2 @@
 # projects-competitions
-my projects and competition participations
+my data science projects and competition participations
